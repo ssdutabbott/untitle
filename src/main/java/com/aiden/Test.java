@@ -5,5 +5,6 @@ public class Test {
         System.out.println("1");
         System.out.println("push test");
         System.out.println("push again");
+        System.out.println("pull test");
     }
 }
